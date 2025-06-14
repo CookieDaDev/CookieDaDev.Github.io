@@ -1,4 +1,4 @@
-# Daboss7173.github.io
+# CookieDaDev.github.io
 
 This is essentially one of my many creative outlets. This was originally meant to just host all of my coding stuff, but it's
 essentially turned into "The Old Prodigy Website" - so yeah.
@@ -26,7 +26,7 @@ I am not associated with Prodigy Education or any associates/subsidiaries.
 There are also various forks of this repository, you can check them out if you get the chance. I can not guarentee the quality of play
 as much as I can here, but I can say they have some cool stuff you might like.
 
-https://github.com/Daboss7173/Daboss7173.github.io/network/members
+Original Credits https://github.com/Daboss7173/Daboss7173.github.io/network/members
 
 If there is a bug in this repository, be sure to make a well-formatted issue about it. I'll try to fix it as soon as I can.
 
@@ -42,7 +42,7 @@ so beware!
 
 First thing you have to do is get to the version selection. The following link will do just that:
 
-[https://daboss7173.github.io/oldprodigy/select](https://daboss7173.github.io/oldprodigy/select)
+(https://cookiedadev.github.io/oldprodigy/select/)
 
 Once you're there all you have to do is select a version, which will take you to the Old Prodigy login page. You don't have to worry
 about logging in though. All you really have to do at this point is make your wizard!
@@ -134,7 +134,7 @@ Lets scratch the surface shall we?
 - Holliday Events
 - Google Login
 - Multiplayer
-
+-- down here is a version of prodigy 1.50.0 made by my friend Daboss7173
 Yep, you heard that right, that's just scratching the surface. This version is based off of 1-50-0, which is already one of the most
 stable and reliable of the Prodigy versions, so you can probably imagine what months of hard work can do to something like that.
 
